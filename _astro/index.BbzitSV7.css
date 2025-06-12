@@ -1,0 +1,1 @@
+.project-card{border:1px solid var(--border-color);transition:transform .2s ease-in-out,box-shadow .2s ease-in-out;border-radius:.75rem;cursor:pointer}.project-card:hover{transform:translateY(-5px);box-shadow:var(--card-hover-shadow)}
